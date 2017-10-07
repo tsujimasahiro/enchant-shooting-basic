@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=yes"> 
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <script type="text/javascript" src="enchant.js"></script>
+    <script type="text/javascript" src="ui.enchant.js"></script>
+    <script type="text/javascript" src="nineleap.enchant.js"></script>
+    <style type="text/css">
+      body {margin: 0;}
+    </style>
+    <script>
+        window.onload = function () {
+            console.log('5 enchant.ui.APad ' + enchant.ui.APad);
+            console.log('5 APad ' + APad);
+        }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
